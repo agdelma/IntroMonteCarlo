@@ -1,8 +1,6 @@
 # An Introduction to Monte Carlo Methods
 
-This repository contains Jupyter notebooks written in python for a lecture on Monte Carlo methods given at the 
-
-[International Summer School on Computational Quantum Materials](https://pitp.phas.ubc.ca/confs/sherbrooke2018/index.html) in Sherbrooke, Quebec, Canada from May 28 to June 8, 2018.
+This repository contains Jupyter notebooks written in python for a lecture on Monte Carlo methods given at the [International Summer School on Computational Quantum Materials](https://pitp.phas.ubc.ca/confs/sherbrooke2018/index.html) in Sherbrooke, Quebec, Canada from May 28 to June 8, 2018.
 
 ## Lecture Content
 The notebooks in the repository contain information on:
