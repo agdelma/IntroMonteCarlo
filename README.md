@@ -4,9 +4,14 @@ This repository contains Jupyter notebooks written in python for a lecture on Mo
 
 [International Summer School on Computational Quantum Materials](https://pitp.phas.ubc.ca/confs/sherbrooke2018/index.html) in Sherbrooke, Quebec, Canada from May 28 to June 8, 2018.
 
-The five notebooks in the repository contain information on:
+## Lecture Content
+The notebooks in the repository contain information on:
 
-
+1. [Introduction to Monte Carlo Methods](https://github.com/agdelma/IntroMonteCarlo/blob/master/introduction_monte_carlo.ipynb)
+2. [Monte Carlo Integration](https://github.com/agdelma/IntroMonteCarlo/blob/master/Monte_Carlo_integration.ipynb)
+3. [Generating Random Numbers](https://github.com/agdelma/IntroMonteCarlo/blob/master/random_sampling.ipynb)
+4. [Metropolis Monte Carlo](https://github.com/agdelma/IntroMonteCarlo/blob/master/Metropolis_Monte_Carlo.ipynb) 
+5. [2d Ising Model](https://github.com/agdelma/IntroMonteCarlo/blob/master/2d_Ising_model_Monte_Carlo.ipynb)
 
 ## Acknowledgment
 The creation of these materials was supported in part by the National Science Foundation under Awards No. DMR-1553991.
